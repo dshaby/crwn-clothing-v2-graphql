@@ -10,6 +10,7 @@ import { CartProvider } from "./contexts/cart.context";
 import "./index.scss";
 
 const rootElement = document.getElementById("root");
+console.log("test");
 
 render(
   <React.StrictMode>
